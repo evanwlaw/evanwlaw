@@ -33,8 +33,8 @@ MCIT student at UPenn, exploring blockchain, internet systems, and AI.
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 <!-- GitHub Stats -->
-  ![Top Langs](https://github-readme-stats-nu-one-41.vercel.app/api/top-langs/?username=evanlaw-dev&layout=compact&theme=vision-friendly-dark)
-  ![Evan's GitHub stats](https://github-readme-stats-nu-one-41.vercel.app/api?username=evanlaw-dev&show_icons=true&theme=vision-friendly-dark&hide_rank=true&hide=stars)
+  ![Top Langs](https://github-readme-stats-nu-one-41.vercel.app/api/top-langs/?username=evanwlaw&layout=compact&theme=vision-friendly-dark)
+  ![Evan's GitHub stats](https://github-readme-stats-nu-one-41.vercel.app/api?username=evanwlaw&show_icons=true&theme=vision-friendly-dark&hide_rank=true&hide=stars)
 
 <!--
 Here are some ideas to get you started:
