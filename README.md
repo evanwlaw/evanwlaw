@@ -8,8 +8,9 @@ MCIT student at UPenn, exploring blockchain, internet systems, and AI.
 # About Me
 
   - 📫 How to reach me **evanlaw.el@gmail.com**
+  - 🌐 Learn more about me: [www.evanlaw.dev](https://www.evanlaw.dev)
   - 🤝 Connect with me: <a href="https://www.linkedin.com/in/evanlaw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/evanlaw/" height="15" width="25" /></a>
-  - 🌱 I’m currently learning Solana, Rust, and Go
+  - 🌱 I’m currently learning NeoVim, Astro, Rust, and Go
   - ⚡ Fun fact: I trained in classical ballet for 12 years.
   <!--- 🔭 I’m currently working on an Algorithm Visualizer -->
 
