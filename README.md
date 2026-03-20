@@ -35,7 +35,8 @@ A full-stack real-time Zoom app built to keep meetings structured, visible, and 
 [Read the full project write-up](https://www.evanlaw.dev/projects/flowminder/)
 <div align="center">
   <picture>
-    <img src="https://github.com/user-attachments/assets/3ad609f8-32d2-44ac-85bd-0d492bdf8a51" alt="FlowMinder Demo" width="500">    <picture/>
+    <img src="https://github.com/user-attachments/assets/3ad609f8-32d2-44ac-85bd-0d492bdf8a51" alt="FlowMinder Demo" width="500"/>
+  </picture>
   <br/>
   <sub>FlowMinder Demo</sub>
 </div>
