@@ -61,7 +61,8 @@ A full-stack real-time Zoom app built to keep meetings structured, visible, and 
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 <!-- GitHub Stats -->
-  ![Top Langs](https://github-readme-stats-nu-one-41.vercel.app/api/top-langs/?username=evanwlaw&layout=compact&theme=vision-friendly-dark)
+  <!-- ![Top Langs](https://github-readme-stats-nu-one-41.vercel.app/api/top-langs/?username=evanwlaw&layout=compact&theme=vision-friendly-dark) -->
+  ![Top Langs](https://github-readme-stats-nu-one-41.vercel.app/api/top-langs/?username=evanwlaw&layout=compact&theme=vision-friendly-dark&exclude_repo=EAS5830-assignment)
   ![Evan's GitHub stats](https://github-readme-stats-nu-one-41.vercel.app/api?username=evanwlaw&show_icons=true&theme=vision-friendly-dark&hide_rank=true&hide=stars)
 
 <!--
